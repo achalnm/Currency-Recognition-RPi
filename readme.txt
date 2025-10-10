@@ -17,7 +17,7 @@ Project Files:
 - raspi.py: Capture images from a webcam on Raspberry Pi and perform real-time inference using .tflite model
 - convert_to_tflite.py: Optional script to convert .h5 model to .tflite
 - requirements.txt: Python dependencies
-- docs/FYP_Report.pdf: Final year project report (optional but recommended)
+- docs/FYP_Report.pdf: Final year project report 
 
 Hardware Requirements:
 - Raspberry Pi 3B+ or newer
