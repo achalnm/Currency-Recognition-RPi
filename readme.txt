@@ -1,7 +1,7 @@
 Handheld Currency Detection Device for the Visually Impaired
 
 Team Members:
-- Achal N
+- Achal Nanjundamurthy
 - Aruna A Shenoy
 - Bhushan M V
 - Pujitha D R
