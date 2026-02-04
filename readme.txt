@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Handheld Currency Detection Device for the Visually Impaired
 
 ## Project Overview
