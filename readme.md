@@ -50,7 +50,10 @@ dataset/
 
 ## Team Members
 
-- Achal Nanjundamurthy (1JT21CS003)  
-- Aruna A Shenoy (1JT21CS019)  
-- Bhushan M V (1JT21CS030)  
-- Pujitha D R (1JT21CS128)  
+| Name                   | ID           | Email                               |
+|------------------------|-------------|-------------------------------------|
+| Achal Nanjundamurthy   | 1JT21CS003  | achalnm02@gmail.com           |
+| Aruna A Shenoy         | 1JT21CS019  | aruna.shenoy31@gmail.com           |
+| Bhushan M V            | 1JT21CS030  | bhushanmv2003@gmail.com            |
+| Pujitha D R            | 1JT21CS128  | pujitharamesh2712@gmail.com        |
+
