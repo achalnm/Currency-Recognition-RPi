@@ -12,7 +12,7 @@ This project, developed at Jyothy Institute of Technology (2024-2025), provides 
 
 ## Hardware Requirements
 - Raspberry Pi 3B+ or newer
-- USB Webcam / Pi Camera (Minimum 480p)
+- USB Webcam / Pi Camera (Minimum resolution : 480p)
 - Battery Pack (5V 3A) for portability
 - Speaker or Headphones for audio feedback
 - Tactile Push Button (connected to GPIO)
