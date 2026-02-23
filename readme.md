@@ -40,9 +40,9 @@ dataset/
 
 ## Implementation Logic
 
-- **Capture:** The device waits for a hardware button press to trigger image capture.  
+- **Capture:** The device waits for a hardware button press to trigger the image capture.  
 - **Pre-process:** Captured images are resized to 224x224 and normalized to [0, 1] for compatibility with MobileNetV2. 
-- **Inference:** The TFLite interpreter loads the model and performs a forward pass on the Pi.  
+- **Inference:** The TFLite interpreter loads the model and performs a forward pass on the Raspberry Pi.  
 - **Classification:** The model outputs probabilities via softmax, and the highest probability is taken as the predicted denomination.  
 - **Feedback:** The predicted denomination is announced via audio output (TTS). Optionally, a confidence threshold can be applied to ensure reliable predictions.
 
